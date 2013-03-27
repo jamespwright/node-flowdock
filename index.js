@@ -1,1 +1,1 @@
-module.exports = require("./lib/flowdock");
+module.exports = require("./src/flowdock");
